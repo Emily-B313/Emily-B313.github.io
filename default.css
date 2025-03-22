@@ -1,0 +1,33 @@
+body{background-color: rgb(111, 177, 166);}
+
+
+h1{color:aqua;
+font-size: 16px;}
+
+hr{color: aquamarine;
+height: 10px;
+width: 500px;
+background-color: blueviolet;}
+
+
+a:link{color: cadetblue;
+}
+a:visited{color: rgb(196, 116, 213);}
+
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 14px;}
+
+#size{position: absolute; top: 250px; left: 600px;
+background-color: coral;
+padding: 25px;
+border-style: groove;
+border-width: 5px;
+border-color: darkcyan;
+opacity: 50%;}
+
+#main{background-color: aliceblue;
+height:700px;
+width: 900px;
+padding: 25px;
+position: absolute; top: 50px; left: 50px; 
+}
