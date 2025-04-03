@@ -1,34 +1,36 @@
 body{background-color: rgb(224, 255, 196); }
-#h1{position: absolute; left: 500px}
+#h1{position: absolute; left: 620px}
 
 
-#link1{position: absolute; top: -10px; left: 230px}
-#link2{position: absolute; top: -10px; left: 360px}
-#link3{position: absolute; top: -10px; left: 500px}
-#link4{position: absolute; top: -10px; left: 660px}
+#link1{position: absolute; top: -10px; left: 330px}
+#link2{position: absolute; top: -10px; left: 460px}
+#link3{position: absolute; top: -10px; left: 600px}
+#link4{position: absolute; top: -10px; left: 760px}
 
 #links{background-color: aliceblue;
 height: 30px;
-width: 900px;
+width: 1100px;
 position: absolute; top: 40px; left: 120px}
 
 a:link{color: rgb(237, 255, 253);}
 
-#picture{position: absolute; top: 120px; left: 40px}
+#picture{position: absolute; top: 120px; left: 60px}
 
 #body{background-color: rgb(165, 212, 253);
 height: 850px;
-width: 1100px;
+width: 1300px;
 padding: 25px;
 position:absolute; top: 80px; left: 50px}
 
-#paragraph1{position: absolute; top: 140px; left: 550px}
+#paragraph1{position: absolute; top: 140px; left: 570px; right:100px}
 
-#list1{position: absolute; top: 240px; left: 550px}
-#list2{position: absolute; top: 240px; left: 800px}
+#list1{position: absolute; top: 240px; left: 650px}
+#list2{position: absolute; top: 240px; left: 900px}
 
-#picture2{position: absolute; top: 500px; left: 400px}
+#picture2{position: absolute; top: 500px; left: 480px}
 
-#paragraph2{position: absolute; top: 500px; left: 40px; right: 750px}
+#paragraph2{position: absolute; top: 530px; left: 60px; right: 750px}
 
-#paragraph3{position: absolute; top: 500px; left: 830px}
+#paragraph4{position: absolute; top: 720px; left: 80px; right: 750px}
+
+#paragraph3{position: absolute; top: 550px; left: 930px}
